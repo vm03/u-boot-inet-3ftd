@@ -385,6 +385,7 @@ dtb-$(CONFIG_MACH_SUN4I) += \
 	sun4i-a10-hyundai-a7hd.dtb \
 	sun4i-a10-inet1.dtb \
 	sun4i-a10-inet-3f.dtb \
+	sun4i-a10-inet-3ftd-rev01.dtb \
 	sun4i-a10-inet-3w.dtb \
 	sun4i-a10-inet97fv2.dtb \
 	sun4i-a10-inet9f-rev03.dtb \
